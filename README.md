@@ -75,7 +75,7 @@ To encode our image features, we will make use of transfer learning.
 We have used the **inceptionV3 model.**
 <br>
 
-To encode our text sequence we will map every word to a **200-dimensional vector.** For this will use a pre-trained Glove model.
+To encode our text sequence, we will map every word to a **200-dimensional vector.** For this, will use a pre-trained Glove model.
 To generate the caption, we will be using two popular methods which are **Greedy Search and Beam Search.**
 <br>
 
